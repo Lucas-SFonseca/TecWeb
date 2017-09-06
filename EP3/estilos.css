@@ -1,0 +1,93 @@
+/*Exercicio 1  */
+
+.general{
+	font-family: Verdana;
+	font-size: 12px;
+	text-align: center;
+	color: red; 
+	line-height: 2.0;
+}
+.borders{
+	
+	border-right-width: 1px;	
+	border-right-color: black;
+	border-right-style: solid;
+	
+	
+	border-top-width: 1px;
+	border-top-color: black;
+	border-top-style: solid;
+	
+	border-left-width: 1px;
+	border-left-color: black;
+	border-left-style: solid;
+	
+	
+	border-bottom-width: 1px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	
+}
+/* Exercicio 2 */
+.principal{
+	font-family: arial;
+	text-align: center;
+	font-size: 36px;
+	font-weight: bold;
+	
+	border-bottom-width: 1.4px;
+	border-bottom-color: #3299CC;
+	border-bottom-style: solid;
+
+}
+
+.cg{
+	font-family: arial;
+	line-height: 2.0;
+	color: #3299CC;
+}
+.pg{
+	font-family: arial;
+	line-height: 2.0;
+	color: #32CD32;
+	font-weight: bold;
+}
+.ms{
+	font-family: arial;
+	line-height: 2.0;
+	font-style: oblique;
+	color: gold;
+}
+.dt{
+	font-family: arial;
+	line-height: 2.0;
+	color: red;
+	text-decoration: underline;
+}
+.aul{
+	font-family: "Times New Roman", Times, serif;
+	line-height: 2.0;
+	color: #9370DB;
+
+}
+
+/* Exercicio 3 */
+.default{
+	font-family: arial;
+}
+.tbl{
+	background: Silver;
+}
+.notaA{
+	color:#32CD32;
+	font-weight:bold;
+}
+
+.notaF{
+	color: red;
+	font-weight:bold;
+}
+.align{
+	text-align: center;
+
+}
